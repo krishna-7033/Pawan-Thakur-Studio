@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  min-width: 320px;
+  min-height: 100%;
+  margin: 0;
+}
+::selection {
+  background: #7ba4b8;
+  color: #fff;
+}
